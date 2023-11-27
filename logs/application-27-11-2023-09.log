@@ -1,0 +1,147 @@
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 2"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"PNS, Monica, +1 posted messages\",\"emailFrom\":\"You have new posts in Teams <noreply@email.teams.microsoft.com>\",\"emailTo\":\"support.executive1@wepsol.com\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"RE: PAPER JAM - Kyocera FS-M2040DN MFP - Error Code - C6600\",\"emailFrom\":\"V SURESH- HEAD  IT & SYSTEMS <v.suresh@lismail.in>\",\"emailTo\":\"Manikya Reddy- Hyderabad- Sales <Manikya.Reddy@wepsol.com>\",\"emailCc\":\"Krishnamoorthy.s <krishnamoorthy.s@lismail.in>, Shankar N - Tamil Nadu - MPS - Support <Cse.Chennai@wepsol.in>, pns.blrcc@wepsol.com, customer.support@wepsol.in\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"Action Required: Toner Call Approval - R1S9601628 - LUPIN LIMITED-BLACK\",\"emailFrom\":\"Workflow Mailer_WEPPROD <oraclea@wepindia.com>\",\"emailTo\":\"MPS, CallCenter12 <pns.blrcc@wepindia.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"body":"{\"code\":\"ErrorItemNotFound\",\"message\":\"The specified object was not found in the store., The process failed to get the correct properties.\"}","code":"ErrorItemNotFound","date":"2023-11-27T04:14:12.982Z","headers":{},"level":"error","requestId":null,"statusCode":404}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYB7Z02768\",\"taskType\":\"Support\",\"taskSummary\":\"Paper pickup issue\",\"contactNumber\":\"7894421929, 9121333001\",\"contactEmail\":\"ranjan.sahoo@bfil.co.in<mailto:ranjan.sahoo@bfil.co.in>\",\"emailSubject\":\"RE: Kyocera Printer issue-VYB7Z02768\",\"emailFrom\":\"Ramakanta Gahir <ramakanta.gahir@bfil.co.in>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>\",\"emailCc\":\"IT-Bhawanipatna <IT-Bhawanipatna@bfil.co.in>\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"Ranjan Kumar Sahoo\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"Unable to Log the Call for this VYB7Z02768, Please Contact Mr.Zaid Bangalore Support, EMail: ops2exe@wepsol.in (Reference:MPS12410 ,98.1) \"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}

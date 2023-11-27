@@ -1,0 +1,30 @@
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"body":"CredentialUnavailableError: endpoints_resolution_error: Error: could not resolve endpoints. Please check network and try again. Detail: ClientAuthError: openid_config_error: Could not retrieve endpoints. Check your authority and verify the .well-known/openid-configuration endpoint returns the required endpoints. Attempted to retrieve endpoints from: https://login.microsoftonline.com/fc467f8e-0352-48c6-a455-4fd6ae57b075/v2.0/.well-known/openid-configuration","code":"CredentialUnavailableError","date":"2023-11-19T05:34:09.553Z","level":"error","requestId":null,"statusCode":-1}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYD8104829\",\"taskType\":null,\"taskSummary\":\"printfleet:tonerlevel:undefined\",\"contactNumber\":null,\"contactEmail\":null,\"emailSubject\":\"PRINT_FLEET_REQUEST\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":\"COLOR\",\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":\"Black\"}"}
+{"errorNum":12170,"level":"error","offset":0}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYD8104829\",\"taskType\":null,\"taskSummary\":\"printfleet:tonerlevel:undefined\",\"contactNumber\":null,\"contactEmail\":null,\"emailSubject\":\"PRINT_FLEET_REQUEST\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":\"COLOR\",\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":\"Black\"}"}
+{"errorNum":12170,"level":"error","offset":0}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYD8104829\",\"taskType\":null,\"taskSummary\":\"printfleet:tonerlevel:undefined\",\"contactNumber\":null,\"contactEmail\":null,\"emailSubject\":\"PRINT_FLEET_REQUEST\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":\"COLOR\",\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":\"Black\"}"}
+{"errorNum":12170,"level":"error","offset":0}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYD8104829\",\"taskType\":null,\"taskSummary\":\"printfleet:tonerlevel:undefined\",\"contactNumber\":null,\"contactEmail\":null,\"emailSubject\":\"PRINT_FLEET_REQUEST\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":\"COLOR\",\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":\"Black\"}"}
+{"errorNum":12170,"level":"error","offset":0}

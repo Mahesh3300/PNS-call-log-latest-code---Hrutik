@@ -1,0 +1,148 @@
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"State\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"RE: Calls logged W/O contact details\",\"emailFrom\":\"Neeraj Gupta-RC1AU Finance – Customer Support <RC1.auf@wepsol.com>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>, Jayaraju s  Corporate- MPS - Operation <Jayaraju.S@wepsol.com>\",\"emailCc\":\"Rakesh Kumar -Jaipur - Regional Warehouse. <WS.Jai@wepsol.com>, Chandru-Mysore-Central Warehouse <Chandru.m@wepindia.com>, Rohini H-Mysore-Central Warehouse <Logistics.PNS3@wepsol.com>, Sandeep Singh – RC2 AU Finance <RC2.AUF@wepsol.com>, Arvind Kum\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"Re: REGARDING TONNER REQUIRED\",\"emailFrom\":\"Smita Ghadi - Bangalore - MPS - Operations <Customer.Support@wepsol.com>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"body":"{\"code\":\"ErrorItemNotFound\",\"message\":\"The specified object was not found in the store., The process failed to get the correct properties.\"}","code":"ErrorItemNotFound","date":"2023-11-20T06:55:26.911Z","headers":{},"level":"error","requestId":null,"statusCode":404}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYB8X14434\",\"taskType\":\"Tonner Required\",\"taskSummary\":\"Tonner Required\",\"contactNumber\":\"9826878931\",\"contactEmail\":\"shipping.pune@rjcorp.in<mailto:shipping.pune@rjcorp.in>\",\"emailSubject\":\"Tonner required.\",\"emailFrom\":\"Atish Fulware <Atish.Fulware@rjcorp.in>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"N.K. Jaiswal\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidTaskType\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"RE: Need to Terminate not in use last 2 years TATA CAPITAL BANGLORE\",\"emailFrom\":\"Yuvraj Bhadane <YBhadane.PRJ@tatacapital.com>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>, Chandrakanth Khandelwal - Mumbai - Sales <Chandrakanth.Khandelwal@wepsol.com>\",\"emailCc\":\"Shankar N - Tamil Nadu - MPS - Support <Cse.Chennai@wepsol.com>, FSE4 - Lava Naik - Bangalore - Customer Support <FSE4.Bangalore@wepsol.in>, VENKATESH M - Karnataka & Kerala - Support <CSE.Bangalore@wepsol.com>, Anurag Verma - Mumbai Customer Suppor\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"Action Required: Toner Call Approval - VYB7Z02810 - HDFC ASSET MANAGEMENT COMPANY LIMITED-BLACK\",\"emailFrom\":\"Workflow Mailer_WEPPROD <oraclea@wepindia.com>\",\"emailTo\":\"MPS, CallCenter12 <pns.blrcc@wepindia.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"Rejected Toner Call Request\",\"emailFrom\":\"psd.oracle2@wepsol.in\",\"emailTo\":\"r.raghavan1@tcs.com\",\"emailCc\":\"pns.blrcc@wepindia.com, customer.support@wepsol.in, data.operator@wepsol.in\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"SYSTEM_EMAIL\"}"}
+{"body":"{\"code\":\"ErrorItemNotFound\",\"message\":\"The specified object was not found in the store., The process failed to get the correct properties.\"}","code":"ErrorItemNotFound","date":"2023-11-20T07:20:22.887Z","headers":{},"level":"error","requestId":null,"statusCode":404}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 2"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"Rejected Toner Call Request\",\"emailFrom\":\"psd.oracle2@wepsol.in\",\"emailTo\":\"Mukesh.k31@tcs.com\",\"emailCc\":\"pns.blrcc@wepindia.com, customer.support@wepsol.in, data.operator@wepsol.in\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"SYSTEM_EMAIL\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYE2Y26356\",\"taskType\":\"Support\",\"taskSummary\":\"Paper JAM issue\",\"contactNumber\":\"7569866955\",\"contactEmail\":\"pavankishore.b@tcs.com<mailto:pavankishore.b@tcs.com>\",\"emailSubject\":\"Reg. Printer Support Call log ID  20 Nov 2023 N | Regional Passport Office , Hyderabad\",\"emailFrom\":\"PAVAN KISHORE B D <pavankishore.b@tcs.com>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"Pavan\",\"pfleetTonerLevel\":null}"}
+{"level":"error"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 2"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"RE: Standby Toner request  ** High Critical**\",\"emailFrom\":\"Amit Singh - Corporate - Managed Services <Amit.singh@wepsol.com>\",\"emailTo\":\"SHAHAPURKAR SAMEER (HO) <sameershahapurkar@nerolac.com>\",\"emailCc\":\"Jayaraju s  Corporate- MPS - Operation <Jayaraju.S@wepsol.com>, FM - HELPDESK (HOSUR) <fmhosur@nerolac.com>, BHUVANA KUMAR (HOSUR) <bhuvanakumar@nerolac.com>, Smita Ghadi - Bangalore - MPS - Operations <Customer.Support@wepsol.com>, PRINTER SUPPORT \",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYE2Y26356\",\"taskType\":\"Support\",\"taskSummary\":\"Paper JAM issue\",\"contactNumber\":\"7569866955\",\"contactEmail\":\"pavankishore.b@tcs.com<mailto:pavankishore.b@tcs.com>\",\"emailSubject\":\"Reg. Printer Support Call log ID  20 Nov 2023 N | Regional Passport Office , Hyderabad\",\"emailFrom\":\"PAVAN KISHORE B D <pavankishore.b@tcs.com>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"Pavan\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"SamedayDuplicateRequest\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"printfleet:tonerlevel:JAYARAJU\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"Approved Toner Call Request and Task Number 4563045\",\"emailFrom\":\"psd.oracle2@wepsol.in\",\"emailTo\":\"Abhinav.a.kumar@relianceada.com\",\"emailCc\":\"pns.blrcc@wepindia.com, customer.support@wepsol.in, data.operator@wepsol.in\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"SYSTEM_EMAIL\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYB1Y81343\",\"taskType\":\"Support\",\"taskSummary\":\"Print quality issue\",\"contactNumber\":\"8220391724\",\"contactEmail\":\"pasubmdh@schaeffler.com<mailto:pasubmdh@schaeffler.com>\",\"emailSubject\":\"Pinter issue\",\"emailFrom\":\"Pasubathi, Madhu  (ext.)  RF/HSR-ZINS <pasubmdh@schaeffler.com>\",\"emailTo\":\"PNS Call Centre <pns.blrcc@wepsol.com>\",\"emailCc\":\"Mariappan, Jeyachandran  RF/HSR-ZINS <MARIAJYA@schaeffler.com>, Prakasam, Thiyagarajan  (ext.)  RF/HSR-ZINS <prakatiy@schaeffler.com>, FSE8-Santosh Kumar M-Bangalore-Customer Support <fse8.bangalore@wepsol.com>\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"Pasubathi M\",\"pfleetTonerLevel\":null}"}
+{"level":"error"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"\",\"taskType\":\"\",\"taskSummary\":\"\",\"contactNumber\":\"\",\"contactEmail\":\"\",\"emailSubject\":\"RE: Printer is not working properly // # 45853 SUPPORT REQUIRED\",\"emailFrom\":\"Raj Kumar <rajkumar_hitachi@indiabulls.com>\",\"emailTo\":\"Nitin Kumar-Delhi NCR- Delhi NCR - Uttar Pradesh - Uttarakhand -Support <cse.delhi@wepsol.com>, Deepak Sethi <sethi.d@indiabulls.com>, Sachin Bhatia <bhatia.sachin@indiabulls.com>, Jitender Team Lead-IT <jitender17@indiabulls.com>\",\"emailCc\":\"Indiabulls ITHelpDesk <ithelpdesk@indiabulls.com>, Kamlesh Gupta – Corporate- Customer Support <Kamlesh.Gupta@wepsol.com>, FSE1 - Sudist Kumar - Delhi - Customer Support <FSE1.Delhi@wepsol.com>, PNS Call Centre <pns.blrcc@wepsol.com>, Prity Kumari <\",\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":null,\"contactPerson\":\"\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"InvalidSerialNumber\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}

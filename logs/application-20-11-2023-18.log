@@ -1,0 +1,67 @@
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYB1Y82275\",\"taskType\":\"Toner\",\"taskSummary\":\"printfleet:tonerlevel:6.00%\",\"contactNumber\":\"8617746826\",\"contactEmail\":\": Avirup.Majumdar@mjunction.in\",\"emailSubject\":\"mahadeva14\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":\": WeP Solutions Ltd\",\"contactPerson\":\"Avirup Majumdar\",\"pfleetTonerLevel\":null}"}
+{"level":"error"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYB1Y82275\",\"taskType\":\"Toner\",\"taskSummary\":\"printfleet:tonerlevel:6.00%\",\"contactNumber\":\"8617746826\",\"contactEmail\":\": Avirup.Majumdar@mjunction.in\",\"emailSubject\":\"mahadeva14\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":\": WeP Solutions Ltd\",\"contactPerson\":\"Avirup Majumdar\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"SamedayDuplicateRequest\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"body":"TypeError: fetch failed","code":"TypeError","date":"2023-11-20T12:33:17.416Z","level":"error","requestId":null,"statusCode":-1}
+{"level":"info","message":"Started"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VYB0948938\",\"taskType\":\"Toner\",\"taskSummary\":\"printfleet:tonerlevel:6.00%\",\"contactNumber\":\"8617746826\",\"contactEmail\":\": Avirup.Majumdar@mjunction.in\",\"emailSubject\":\"mahadeva15\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":\": WeP Solutions Ltd\",\"contactPerson\":\"Avirup Majumdar\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"PendingTaskExist\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 1"}
+{"level":"info","message":"Send to Oracle -> {\"serialNumber\":\"VY98Z00956\",\"taskType\":\"Toner\",\"taskSummary\":\"printfleet:tonerlevel:6.00%\",\"contactNumber\":\"8617746826\",\"contactEmail\":\": Avirup.Majumdar@mjunction.in\",\"emailSubject\":\"mahadeva16\",\"emailFrom\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailTo\":\"Hrutik Sunkad - Bangalore- Management Trainee <Hrutik.Sunkad@wepsol.com>\",\"emailCc\":null,\"emailBcc\":null,\"problemCode\":null,\"pfleetGroup\":\": WeP Solutions Ltd\",\"contactPerson\":\"Avirup Majumdar\",\"pfleetTonerLevel\":null}"}
+{"level":"info","message":"Saved -> {\"P_PARSING_FOLDER\":\"PARSED_UNSUCCESS\",\"P_STATUS_CODE\":\"X\",\"P_STATUS_DESC\":\"PendingTaskExist\"}"}
+{"level":"info","message":"Moved to PARSED_UNSUCCESS"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
+{"level":"info","message":"Connecting to Mail & Getting Message List"}
+{"level":"info","message":"Unseen messages from inbox - 0"}
