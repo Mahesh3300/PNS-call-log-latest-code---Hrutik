@@ -7,4 +7,3 @@ DB_USER = apps
 DB_PASSWORD = apps
 DB_HOST = 192.9.105.74:1576/TEST
 
-mail4.rar is the latest file modified.
