@@ -50,6 +50,10 @@ for (let data of parsedata) {
     data = data.replace(/\s\s+/g, ' ');
 
     // New parameters
+    if (data.startsWith("C_EMAIL") && data.length <= 100) apiData.contactEmail = data.split(" ")[1] || null
+    if (data.startsWith("C_NAME") && data.length <= 50) apiData.contactPerson = data.split(" ")[1] || null
+    if (data.startsWith("Type") && data.length <= 50) apiData.taskType = data.split(" ")[1] || null
+    if (data.startsWith("C_NUMBER") && data.length <= 35) apiData.contactNumber = data.split(" ")[1] || null
     if (data.startsWith("C_EMAIL : ") && data.length <= 100) apiData.contactEmail = data.replace("C_EMAIL : ", "").trim() || null;
     if (data.startsWith(" C_EMAIL : ") && data.length <= 100) apiData.contactEmail = data.replace(" C_EMAIL : ", "").trim() || null;
     if (data.startsWith("C_NUMBER : ") && data.length <= 35) apiData.contactNumber = data.replace("C_NUMBER : ", "").trim() || null;
@@ -62,7 +66,6 @@ for (let data of parsedata) {
     if (data.startsWith("Contact Person") && data.length <= 50) apiData.contactPerson = data.replace("Contact Person", "").trim() || null;
     if (data.startsWith("Contact Name :") && data.length <= 50) apiData.contactPerson = data.replace("Contact Name : ", "").trim() || null;
     if (data.startsWith(" Contact Name :") && data.length <= 50) apiData.contactPerson = data.replace(" Contact Name : ", "").trim() || null;
-    if ((data.startsWith("Contact Email") || data.startsWith("Contact EMail")) && data.length <= 50) apiData.contactEmail = data.replace("Contact Email", "").replace("Contact EMail", "").trim() || null;
     if ((data.startsWith("Contact Email") || data.startsWith("Contact EMail")) && data.length <= 50) apiData.contactEmail = data.replace("Contact Email", "").replace("Contact EMail", "").trim() || null;
     if (data.startsWith("Task Type") && data.length <= 50) apiData.taskType = data.replace("Task Type", "").trim() || null;
     if (data.startsWith("Type") && data.length <= 50) apiData.taskType = data.replace("Type", "").trim() || null;
